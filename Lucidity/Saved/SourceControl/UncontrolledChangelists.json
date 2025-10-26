@@ -5,9 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/gerar/OneDrive/Desktop/Projecte/Lucidity/Lucidity/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
 				"C:/Users/gerar/OneDrive/Desktop/Projecte/Lucidity/Lucidity/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Users/gerar/OneDrive/Desktop/Projecte/Lucidity/Lucidity/Content/CameraShake/WalkingCameraShaker.uasset"
+				"C:/Users/gerar/OneDrive/Desktop/Projecte/Lucidity/Lucidity/Content/CameraShake/WalkingCameraShaker.uasset",
+				"C:/Users/gerar/OneDrive/Desktop/Projecte/Lucidity/Lucidity/Content/CameraShake/IdleingCameraShake.uasset",
+				"C:/Users/gerar/OneDrive/Desktop/Projecte/Lucidity/Lucidity/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset"
 			]
 		}
 	]
