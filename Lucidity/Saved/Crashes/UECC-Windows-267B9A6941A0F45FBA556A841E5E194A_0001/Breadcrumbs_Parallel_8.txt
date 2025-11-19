@@ -1,0 +1,10 @@
+Breadcrumbs 'Parallel'
+ - ShadowProjectionOnOpaque
+ - FirstPersonLayout.RectLight11
+ - UnbatchedLights
+ - DirectLighting
+ - Lights
+ - RenderDeferredLighting
+ - Scene
+ - FRDGBuilder::Execute
+ - Frame 1769
