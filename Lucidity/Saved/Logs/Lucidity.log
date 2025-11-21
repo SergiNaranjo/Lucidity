@@ -19,14 +19,14 @@ LogCsvProfiler: Display: Metadata set : platform="Windows"
 LogCsvProfiler: Display: Metadata set : config="Development"
 LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.5-CL-40574608"
 LogCsvProfiler: Display: Metadata set : engineversion="5.5.4-40574608+++UE5+Release-5.5"
-LogCsvProfiler: Display: Metadata set : os="Windows 11 (24H2) [10.0.26100.7171] "
-LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-14650HX"
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (25H2) [10.0.26200.7171] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 9 7900X 12-Core Processor"
 LogCsvProfiler: Display: Metadata set : pgoenabled="0"
 LogCsvProfiler: Display: Metadata set : pgoprofilingenabled="0"
 LogCsvProfiler: Display: Metadata set : ltoenabled="0"
 LogCsvProfiler: Display: Metadata set : asan="0"
-LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\gerar\OneDrive\Desktop\Projecte\Lucidity\Lucidity\Lucidity.uproject""
-LogCsvProfiler: Display: Metadata set : loginid="b4cf4d4741b39b8fb786c397368bd052"
+LogCsvProfiler: Display: Metadata set : commandline="" C:/Users/Sergi/Desktop/Lucidity/Lucidity/Lucidity.uproject""
+LogCsvProfiler: Display: Metadata set : loginid="372580b1428ef0537cc72fb1cc59e0f3"
 LogCsvProfiler: Display: Metadata set : llm="0"
 LogStats: Stats thread started at 0.480859
 LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
@@ -35,7 +35,7 @@ LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform
 LogInit: Session CrashGUID >====================================================
          Session CrashGUID >   UECC-Windows-468962AD44123E27FCE25DB4823F7D12
          Session CrashGUID >====================================================
-LogConfig: No local boot hotfix file found at: [../../../../../../Users/gerar/OneDrive/Desktop/Projecte/Lucidity/Lucidity/Saved/PersistentDownloadDir/HotfixForNextBoot.txt]
+LogConfig: No local boot hotfix file found at: [../../../../../../Users/Sergi/Desktop/Lucidity/Lucidity/Saved/PersistentDownloadDir/HotfixForNextBoot.txt]
 LogAudio: Display: Pre-Initializing Audio Device Manager...
 LogConfig: Display: Loading VulkanPC ini files took 0.06 seconds
 LogAudio: Display: AudioInfo: 'OPUS' Registered
@@ -60,7 +60,7 @@ LogConfig: Display: Loading VisionOS ini files took 0.05 seconds
 LogAssetRegistry: Display: Asset registry cache read as 39.3 MiB from D:/Programes/Unity/Lucidity/Lucidity/Intermediate/CachedAssetRegistry_0.bin
 LogPluginManager: Found matching target receipt: ../../../Engine/Binaries/Win64/UnrealEditor.target
 LogPluginManager: Looking for enabled plugins target receipt
-LogPluginManager: Unable to find target receipt in path: ../../../../../../Users/gerar/OneDrive/Desktop/Projecte/Lucidity/Lucidity/Binaries/Win64/*.target
+LogPluginManager: Unable to find target receipt in path: ../../../../../../Users/Sergi/Desktop/Lucidity/Lucidity/Binaries/Win64/*.target
 LogPluginManager: Found matching target receipt: ../../../Engine/Binaries/Win64/UnrealEditor.target
 LogPluginManager: Mounting Engine plugin Bridge
 LogPluginManager: Mounting Engine plugin ChaosCloth
@@ -222,15 +222,15 @@ LogPluginManager: Mounting Engine plugin ComputeFramework
 LogPluginManager: Mounting Engine plugin CustomMeshComponent
 LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
 LogPluginManager: Mounting Engine plugin GeometryProcessing
-LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin HairStrands
 LogPluginManager: Mounting Engine plugin GooglePAD
 LogPluginManager: Mounting Engine plugin GeometryCache
 LogPluginManager: Mounting Engine plugin HairStrands
 LogPluginManager: Mounting Engine plugin InputDebugging
 LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
-LogPluginManager: Mounting Engine plugin AudioWidgets
 LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
 LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
 LogPluginManager: Mounting Engine plugin Metasound
 LogPluginManager: Mounting Engine plugin ArchVisCharacter
 LogPluginManager: Mounting Engine plugin MobilePatchingUtils
@@ -239,13 +239,14 @@ LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
 LogPluginManager: Mounting Engine plugin PropertyAccessEditor
 LogPluginManager: Mounting Engine plugin ResonanceAudio
 LogPluginManager: Mounting Engine plugin RigVM
-LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin SignificanceManager
 LogPluginManager: Mounting Engine plugin SoundFields
 LogPluginManager: Mounting Engine plugin StateTree
 LogPluginManager: Mounting Engine plugin Synthesis
 LogPluginManager: Mounting Engine plugin USDCore
 LogPluginManager: Mounting Engine plugin WaveTable
 LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WaveTable
 LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
 LogPluginManager: Mounting Engine plugin AppleMoviePlayer
 LogPluginManager: Mounting Engine plugin BaseCharacterFXEditor
@@ -266,6 +267,7 @@ LogPluginManager: Mounting Engine plugin SQLiteCore
 LogPluginManager: Mounting Engine plugin HoldoutComposite
 LogPluginManager: Mounting Engine plugin ConcertSyncCore
 LogPluginManager: Mounting Engine plugin ConcertSyncClient
+LogPluginManager: Mounting Engine plugin ConcertSyncCore
 SourceControl: Revision control is disabled
 SourceControl: Revision control is disabled
 SourceControl: Revision control is disabled
@@ -305,12 +307,12 @@ LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
 LogInit: ExecutableName: UnrealEditor.exe
 LogInit: Build: ++UE5+Release-5.5-CL-40574608
 LogInit: Platform=WindowsEditor
-LogInit: MachineId=b4cf4d4741b39b8fb786c397368bd052
+LogInit: MachineId=372580b1428ef0537cc72fb1cc59e0f3
 LogInit: DeviceId=
 LogInit: Engine Version: 5.5.4-40574608+++UE5+Release-5.5
 LogInit: Compatible Engine Version: 5.5.0-37670630+++UE5+Release-5.5
 LogInit: Net CL: 37670630
-LogInit: OS: Windows 11 (24H2) [10.0.26100.7171] (), CPU: Intel(R) Core(TM) i7-14650HX, GPU: Intel(R) UHD Graphics
+LogInit: OS: Windows 11 (25H2) [10.0.26200.7171] (), CPU: AMD Ryzen 9 7900X 12-Core Processor            , GPU: NVIDIA GeForce RTX 3060
 LogInit: Compiled (64-bit): Mar  7 2025 14:49:53
 LogInit: Architecture: x64
 LogInit: Compiled with Visual C++: 19.38.33130.00
