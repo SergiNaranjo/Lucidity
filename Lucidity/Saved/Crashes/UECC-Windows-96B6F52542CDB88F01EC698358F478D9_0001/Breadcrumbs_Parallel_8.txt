@@ -1,0 +1,10 @@
+Breadcrumbs 'Parallel'
+ - PostPass
+ - Nanite::DrawGeometry
+ - Face 5
+ - Nanite Cubemap FirstPersonLayout.ColorLightbulb2 128x128
+ - Cubemap FirstPersonLayout.ColorLightbulb2 128^2
+ - ShadowDepths
+ - Scene
+ - FRDGBuilder::Execute
+ - Frame 4997

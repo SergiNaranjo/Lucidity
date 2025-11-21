@@ -1,0 +1,10 @@
+Breadcrumbs 'Parallel'
+ - NoOcclusionPass
+ - Nanite::DrawGeometry
+ - Face 1
+ - Nanite Cubemap FirstPersonLayout.RectLight9 128x128
+ - Cubemap FirstPersonLayout.RectLight9 128^2
+ - ShadowDepths
+ - Scene
+ - FRDGBuilder::Execute
+ - Frame 51108

@@ -1,0 +1,9 @@
+Breadcrumbs 'Parallel'
+ - FirstPersonLayout.ColorLightbulb2
+ - UnbatchedLights
+ - DirectLighting
+ - Lights
+ - RenderDeferredLighting
+ - Scene
+ - FRDGBuilder::Execute
+ - Frame 1769

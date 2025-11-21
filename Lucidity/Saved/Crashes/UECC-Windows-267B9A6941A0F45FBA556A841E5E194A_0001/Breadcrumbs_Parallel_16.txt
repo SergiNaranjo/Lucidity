@@ -1,0 +1,10 @@
+Breadcrumbs 'Parallel'
+ - MainPass
+ - Nanite::DrawGeometry
+ - Face 5
+ - Nanite Cubemap FirstPersonLayout.LuzBlanca 256x256
+ - Cubemap FirstPersonLayout.LuzBlanca 256^2
+ - ShadowDepths
+ - Scene
+ - FRDGBuilder::Execute
+ - Frame 1769
